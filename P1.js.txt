@@ -1,0 +1,5 @@
+var n=12;
+if(n%4==0){
+console.log("true");
+}else{
+console.log("false");
